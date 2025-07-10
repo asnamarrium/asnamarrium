@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_uEIAcTgpuOE2Xv5o_2XHBw73bUlJxvnQhcORE_fh5M)]
 <h1 align="center">Hi 👋, I'm Asna Marrium</h1>
 <h3 align="center">A passionate Data Science and Machine Learner from Pakistan</h3>
@@ -9,11 +8,14 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Generative AI**
 
+- 📝 I regularly write articles on [https://medium.com/@asnamaryum](https://medium.com/@asnamaryum)
+
 - 📫 How to reach me **asnamaryum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asna marrium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asna marrium" height="30" width="40" /></a>
+<a href="https://kaggle.com/asnamarrium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asnamarrium" height="30" width="40" /></a>
 <a href="https://medium.com/@asnamaryum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asnamaryum" height="30" width="40" /></a>
 </p>
 
@@ -25,6 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asnamarrium&show_icons=true&locale=en" alt="asnamarrium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asnamarrium&" alt="asnamarrium" /></p>
+
+
 <!--
 **asnamarrium/asnamarrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
