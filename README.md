@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_uEIAcTgpuOE2Xv5o_2XHBw73bUlJxvnQhcORE_fh5M)
+![MasterHead](https://i.postimg.cc/gknG0Pdf/Brown-Photo-Header-General-Linked-In-Banner-1-1.jpg)
 <h1 align="center">Hi 👋, I'm Asna Marrium</h1>
 <h3 align="center">A passionate Data Science and Machine Learner from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
