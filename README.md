@@ -38,6 +38,7 @@
 
 <br/>
 
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,docker,fastapi,git,github,linux,mysql,mongodb,vscode&theme=dark" />
@@ -45,33 +46,3 @@
 </div>
 
 <br/>
-
-<!-- ====================== SELECTED WORK ====================== -->
-
-<div align="center">
-
-<img src="selected-work.svg" alt="Selected AI Projects" width="100%" />
-
-</div>
-
-<br/>
-
-
-<!-- ==================== ENGINEERING WORKFLOW ==================== -->
-
-<div align="center">
-
-<img src="engineering.svg" alt="AI Engineering Workflow" width="100%" />
-
-</div>
-
-<br/>
-
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
-
-<img src="footer.svg" alt="Asna Marrium — AI Engineer" width="100%" />
-
-</div>
