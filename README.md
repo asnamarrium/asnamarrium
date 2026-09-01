@@ -1,45 +1,225 @@
+<!-- ===================== HEADER BANNER ===================== -->
 
-![MasterHead](https://i.postimg.cc/gknG0Pdf/Brown-Photo-Header-General-Linked-In-Banner-1-1.jpg)
-<h1 align="center">Hi 👋, I'm Asna Marrium</h1>
-<h3 align="center">A passionate Data Science and Machine Learner from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asnamarrium&label=Profile%20views&color=0e75b6&style=flat" alt="asnamarrium" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Generative AI**
-
-- 📝 I regularly write articles on [https://medium.com/@asnamaryum](https://medium.com/@asnamaryum)
-
-- 📫 How to reach me **asnamaryum@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asna marrium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asna marrium" height="30" width="40" /></a>
-<a href="https://kaggle.com/asnamarrium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asnamarrium" height="30" width="40" /></a>
-<a href="https://medium.com/@asnamaryum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asnamaryum" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="header.png"
+    alt="Asna Marrium - AI Engineer"
+    width="100%"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asnamarrium&show_icons=true&locale=en&layout=compact" alt="asnamarrium" /></p>
+<!-- ===================== INTRO ===================== -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asnamarrium&show_icons=true&locale=en" alt="asnamarrium" /></p>
+<h1 align="center">Hi, I'm Asna Marrium 👋</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asnamarrium&" alt="asnamarrium" /></p>
+<p align="center">
+  <b>AI Engineer building intelligent systems and practical AI solutions.</b>
+</p>
+
+<p align="center">
+  Machine Learning • Agentic AI • Computer Vision • MLOps
+</p>
 
 
-<!--
-**asnamarrium/asnamarrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== ABOUT ===================== -->
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI Engineer with a background in Computer Science and hands-on experience
+building Machine Learning, Deep Learning and AI-powered applications.
+
+My work focuses on developing intelligent systems—from model development and
+experimentation to API integration, deployment and scalable AI applications.
+
+I am particularly interested in:
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Agentic AI & Intelligent Systems
+- 👁️ Computer Vision
+- ⚙️ MLOps & AI Deployment
+
+Currently focused on building practical AI systems that solve real-world problems.
+
+
+<!-- ===================== WHAT I DO ===================== -->
+
+## What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+Building and optimizing Machine Learning and Deep Learning models for
+classification, prediction and real-world AI applications.
+
+**Focus:**
+
+Python • Scikit-learn • PyTorch • TensorFlow
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Agentic AI
+
+Designing intelligent AI workflows using LLMs, RAG,
+tool-using agents and multi-agent systems.
+
+**Focus:**
+
+LLMs • RAG • ReAct • LangChain • AI Agents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+Developing Deep Learning systems for image classification,
+visual intelligence and real-world detection tasks.
+
+**Focus:**
+
+CNNs • TensorFlow • OpenCV • Transfer Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ MLOps
+
+Taking AI models from experimentation to deployment through
+APIs, containerization and scalable inference.
+
+**Focus:**
+
+Docker • FastAPI • Hugging Face • CI/CD
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## Featured Projects
+
+### 🎥 Multi-Model AI System for Automated Video SEO
+
+An AI-powered platform that transforms YouTube videos into
+SEO-ready publishing content.
+
+**Capabilities**
+
+- Generates SEO-optimized titles
+- Generates relevant video tags
+- Creates optimized video descriptions
+- Generates chapter timestamps
+- Performs automated video metadata analysis
+- Generates AI-powered thumbnail concepts
+
+**Tech Stack**
+
+`Python` `LangChain` `Groq` `Streamlit` `Docker`
+`Hugging Face` `yt-dlp`
+
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/asnamarrium/automated-video-seo
+
+
+---
+
+### 🌱 CropInsight AI
+
+An AI-powered crop disease detection system designed for
+real-time agricultural diagnosis.
+
+**Highlights**
+
+- 94% classification accuracy
+- 38 disease and healthy classes
+- 14 crop categories
+- TensorFlow Lite optimized inference
+- Confidence scoring and treatment recommendations
+- FastAPI real-time inference service
+- Dockerized deployment
+
+**Tech Stack**
+
+`Python` `TensorFlow` `TensorFlow Lite`
+`FastAPI` `Docker` `Hugging Face`
+
+
+---
+
+### 🧬 GEMNet
+
+**Graph-Enhanced Monotonic Neural Networks for Healthcare Outcome Regression**
+
+A research architecture combining Graph Neural Networks with
+monotonic constraints to improve predictive modeling and
+interpretability.
+
+**Research Results**
+
+- R² Score: 0.914
+- MSE: 0.067
+- MAE: 0.191
+- 94.7% monotonicity satisfaction
+
+
+<!-- ===================== TECH STACK ===================== -->
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+### AI Engineering & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Additional Tools
+
+`LangChain` • `Hugging Face` • `Streamlit` • `OpenCV`  
+`Pandas` • `NumPy` • `React` • `Node.js`
+
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## Current Focus
+
+```text
+Machine Learning
+       ↓
+Intelligent AI Systems
+       ↓
+Agentic AI
+       ↓
+Computer Vision
+       ↓
+Production-Ready AI Deployment
+       ↓
+MLOps & Scalable AI Systems
