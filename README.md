@@ -2,7 +2,7 @@
 
 <!-- ============================ HERO ============================ -->
 
-<img src="header.png" alt="Asna Marrium — AI Engineer" width="100%" />
+<img src="banner.md.png" alt="Asna Marrium — AI Engineer" width="100%" />
 
 <br/><br/>
 
@@ -20,10 +20,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://github.com/asnamarrium">
-  <img src="https://img.shields.io/badge/GitHub-asnamarrium-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="mailto:asnamaryum@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+alt="Email"/>
 </a>
-
+&nbsp;
 </div>
 
 <br/>
