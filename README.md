@@ -1,225 +1,77 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="header.png"
-    alt="Asna Marrium - AI Engineer"
-    width="100%"
-  />
-</p>
+<!-- ============================ HERO ============================ -->
 
+<img src="header.png" alt="Asna Marrium — AI Engineer" width="100%" />
 
-<!-- ===================== INTRO ===================== -->
+<br/><br/>
 
-<h1 align="center">Hi, I'm Asna Marrium 👋</h1>
+<img src="typing-asna.svg" alt="AI Engineering Specializations" width="850" />
 
-<p align="center">
-  <b>AI Engineer building intelligent systems and practical AI solutions.</b>
-</p>
+<br/><br/>
 
-<p align="center">
-  Machine Learning • Agentic AI • Computer Vision • MLOps
-</p>
+<!-- ========================== SOCIALS =========================== -->
 
+<a href="https://asnamarrium.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/asna-marrium-981085348/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/asnamarrium">
+  <img src="https://img.shields.io/badge/GitHub-asnamarrium-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<!-- ===================== ABOUT ===================== -->
+</div>
 
-## About Me
+<br/>
 
-I am an AI Engineer with a background in Computer Science and hands-on experience
-building Machine Learning, Deep Learning and AI-powered applications.
+<!-- ======================= AI FOCUS ======================== -->
 
-My work focuses on developing intelligent systems—from model development and
-experimentation to API integration, deployment and scalable AI applications.
+<div align="center">
 
-I am particularly interested in:
+<img src="focus.svg" alt="AI Engineering Focus" width="100%" />
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Agentic AI & Intelligent Systems
-- 👁️ Computer Vision
-- ⚙️ MLOps & AI Deployment
+</div>
 
-Currently focused on building practical AI systems that solve real-world problems.
+<br/>
 
+<div align="center">
 
-<!-- ===================== WHAT I DO ===================== -->
+<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,docker,fastapi,git,github,linux,mysql,mongodb,vscode&theme=dark" />
 
-## What I Work With
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🤖 Machine Learning
+<!-- ====================== SELECTED WORK ====================== -->
 
-Building and optimizing Machine Learning and Deep Learning models for
-classification, prediction and real-world AI applications.
+<div align="center">
 
-**Focus:**
+<img src="selected-work.svg" alt="Selected AI Projects" width="100%" />
 
-Python • Scikit-learn • PyTorch • TensorFlow
+</div>
 
-</td>
+<br/>
 
-<td width="50%" valign="top">
 
-### 🧠 Agentic AI
+<!-- ==================== ENGINEERING WORKFLOW ==================== -->
 
-Designing intelligent AI workflows using LLMs, RAG,
-tool-using agents and multi-agent systems.
+<div align="center">
 
-**Focus:**
+<img src="engineering.svg" alt="AI Engineering Workflow" width="100%" />
 
-LLMs • RAG • ReAct • LangChain • AI Agents
+</div>
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
 
-### 👁️ Computer Vision
+<!-- ========================= FOOTER ========================= -->
 
-Developing Deep Learning systems for image classification,
-visual intelligence and real-world detection tasks.
+<div align="center">
 
-**Focus:**
+<img src="footer.svg" alt="Asna Marrium — AI Engineer" width="100%" />
 
-CNNs • TensorFlow • OpenCV • Transfer Learning
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ MLOps
-
-Taking AI models from experimentation to deployment through
-APIs, containerization and scalable inference.
-
-**Focus:**
-
-Docker • FastAPI • Hugging Face • CI/CD
-
-</td>
-</tr>
-</table>
-
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## Featured Projects
-
-### 🎥 Multi-Model AI System for Automated Video SEO
-
-An AI-powered platform that transforms YouTube videos into
-SEO-ready publishing content.
-
-**Capabilities**
-
-- Generates SEO-optimized titles
-- Generates relevant video tags
-- Creates optimized video descriptions
-- Generates chapter timestamps
-- Performs automated video metadata analysis
-- Generates AI-powered thumbnail concepts
-
-**Tech Stack**
-
-`Python` `LangChain` `Groq` `Streamlit` `Docker`
-`Hugging Face` `yt-dlp`
-
-🔗 **Live Demo:**  
-https://huggingface.co/spaces/asnamarrium/automated-video-seo
-
-
----
-
-### 🌱 CropInsight AI
-
-An AI-powered crop disease detection system designed for
-real-time agricultural diagnosis.
-
-**Highlights**
-
-- 94% classification accuracy
-- 38 disease and healthy classes
-- 14 crop categories
-- TensorFlow Lite optimized inference
-- Confidence scoring and treatment recommendations
-- FastAPI real-time inference service
-- Dockerized deployment
-
-**Tech Stack**
-
-`Python` `TensorFlow` `TensorFlow Lite`
-`FastAPI` `Docker` `Hugging Face`
-
-
----
-
-### 🧬 GEMNet
-
-**Graph-Enhanced Monotonic Neural Networks for Healthcare Outcome Regression**
-
-A research architecture combining Graph Neural Networks with
-monotonic constraints to improve predictive modeling and
-interpretability.
-
-**Research Results**
-
-- R² Score: 0.914
-- MSE: 0.067
-- MAE: 0.191
-- 94.7% monotonicity satisfaction
-
-
-<!-- ===================== TECH STACK ===================== -->
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-### AI Engineering & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Additional Tools
-
-`LangChain` • `Hugging Face` • `Streamlit` • `OpenCV`  
-`Pandas` • `NumPy` • `React` • `Node.js`
-
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## Current Focus
-
-```text
-Machine Learning
-       ↓
-Intelligent AI Systems
-       ↓
-Agentic AI
-       ↓
-Computer Vision
-       ↓
-Production-Ready AI Deployment
-       ↓
-MLOps & Scalable AI Systems
+</div>
