@@ -1,0 +1,95 @@
+<svg width="850" height="50" viewBox="0 0 850 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600;700&amp;display=swap');
+
+      .term-bg {
+        fill: #0c0a15;
+        stroke: url(#borderGrad);
+        stroke-opacity: 0.9;
+        stroke-width: 1;
+      }
+
+      .prompt {
+        font-family: 'JetBrains Mono', monospace;
+        font-weight: 700;
+        font-size: 15px;
+        fill: url(#promptGrad);
+      }
+
+      .text-base {
+        font-family: 'JetBrains Mono', monospace;
+        font-weight: 600;
+        font-size: 13px;
+        fill: url(#textGrad);
+      }
+
+      .cursor {
+        fill: #38bdf8;
+        animation: blink 0.7s infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <linearGradient id="promptGrad" x1="68" y1="0" x2="235" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="250" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="48%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <clipPath id="typingClip">
+      <rect x="250" y="0" width="0" height="50">
+        <animate
+          attributeName="width"
+          values="0;530;530;0"
+          keyTimes="0;0.42;0.78;1"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Compact terminal window -->
+  <rect width="850" height="50" rx="10" class="term-bg"/>
+
+  <!-- Terminal controls -->
+  <circle cx="25" cy="25" r="4" fill="#ef4444"/>
+  <circle cx="37" cy="25" r="4" fill="#f59e0b"/>
+  <circle cx="49" cy="25" r="4" fill="#10b981"/>
+
+  <!-- Terminal prompt -->
+  <text x="68" y="31" class="prompt">asna@ai-engineer:~$</text>
+
+  <!-- Typing text -->
+  <text x="250" y="31" class="text-base" clip-path="url(#typingClip)">
+    Machine Learning • Agentic AI • Computer Vision • AI Systems
+  </text>
+
+  <!-- Animated cursor -->
+  <rect y="16" width="9" height="18" rx="1.5" class="cursor">
+    <animate
+      attributeName="x"
+      values="252;780;780;252"
+      keyTimes="0;0.42;0.78;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</svg>
